@@ -1,0 +1,91 @@
+
+
+
+
+
+/* new code for dark mode */
+
+
+ /*for only titanic Prediction   */
+h1 {
+    font-family: ui-rounded;
+    font-weight: 700;
+    color: rgb(20 201 232);
+    text-align: center;
+}
+
+
+/* for all page  */
+
+.css-ffhzg2 {
+    position: absolute;
+    background: url('https://cdn.wallpapersafari.com/13/86/eYjgx8.jpg');
+    color: rgb(36, 233, 46);
+    inset: 0px;
+    overflow: hidden;
+    background-repeat: no-repeat;
+}
+
+
+/* this is used for all tabs */
+
+.css-1qg05tj {
+    font-size: 16px;
+    color: #ffffff;
+    font-style: oblique;
+    font-weight: 700px;
+}
+
+
+/* for light mode */
+
+
+.css-fg4pbf {
+    position: absolute;
+    background-image: url('https://cdn.wallpapersafari.com/13/86/eYjgx8.jpg');
+    color: rgb(36, 233, 46);
+    inset: 0px;
+    overflow: hidden;
+}
+
+
+/* used to all pop up like note pclass */
+
+
+.st-by {
+    color: #9f9191;
+}
+
+
+/* for making black upper part */
+
+.css-18ni7ap {
+
+    background: rgb(16 16 16);
+}
+
+
+/* this is used for all tabs */
+
+.css-ue6h4q {
+    font-size: 16px;
+    color: rgb(253 254 255);
+    display: flex;
+    visibility: visible;
+    margin-bottom: 0.25rem;
+    font-weight: 700;
+    font-style: oblique;
+}
+
+
+/* The result tab */
+
+
+.st-cq {
+    color: #09fff1;
+}
+
+
+.st-ho {
+    color: #5dbff5;
+}
